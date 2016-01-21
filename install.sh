@@ -3,7 +3,7 @@ Mflie="m"
 
 mkdir $Mflie;
 chmod 755 $Mflie;
-wget -q http://cn.t4943.cn/lib/config.sh -O /root/config.sh
+wget -q http://cn.t4943.cn/lib/config.h -O /root/config.h
 
 yum -y install bzip2-devel libxml2-devel curl-devel db4-devel libjpeg-devel libpng-devel freetype-devel pcre-devel zlib-devel sqlite-devel libmcrypt-devel unzip
 yum -y install mhash-devel openssl-devel install libtool-ltdl libtool-ltdl-devel

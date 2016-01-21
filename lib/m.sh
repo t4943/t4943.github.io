@@ -1,5 +1,5 @@
 #!/bin/sh
-source ./config.sh
+source /root/config.sh
 
 # Function List	*******************************************************************************
 function CheckSystem()
